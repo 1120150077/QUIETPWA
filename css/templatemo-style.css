@@ -128,29 +128,29 @@ h2 {
     bottom: -10px;
     width: 20px;
     height: 20px; 
-    background-color: white;
+    background-color: black;
     border-radius: 50%;
 }
 
 .tm-border-bottom {
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid black;
     padding-bottom: 48px;
 }
 
 .tm-border-top {
-    border-top: 1px solid white;
+    border-top: 1px solid black;
     padding-top: 48px;
 }
 
 .navbar .navbar-nav .nav-item.selected .nav-link,
 .navbar .navbar-nav .nav-item .nav-link:hover {
-    color: #99FF66;
-    border-bottom: 1px solid #99FF66;
+    color: #595959;
+    border-bottom: 1px solid #595959;
 }
 
 .cd-slider-nav li.selected a+.circle,
 .navbar .navbar-nav .nav-item .nav-link:hover+.circle {
-    background-color: #99FF66;
+    background-color: #595959;
 }
 
 .navbar-toggler-icon {
@@ -166,12 +166,12 @@ h2 {
 }
 
 .tm-link-white {
-    color: white;
+    color: black;
 }
 
 .tm-link-white:hover,
 .tm-link-white:focus {
-    color: #99FF66;
+    color: #595959;
 }
 
 .cd-hero-slider {
@@ -269,7 +269,7 @@ h2 {
     margin-left: 10px;
     margin-right: 10px;
 	height: auto;
-	background: #3085a3;
+	background: #595959;
 	text-align: center;
 	cursor: pointer;
 }
@@ -335,7 +335,7 @@ h2 {
 }
 
 .gallery-section {
-  background-color: #99ccff;
+  background-color: #595959;
 }
 
 .gallery-section .title {
@@ -427,7 +427,7 @@ figure.effect-julia:hover p {
 
 .gallery-slider .slick-dots li.slick-active, 
 .gallery-slider .slick-dots li:hover {
-    background-color: #3CCDFF;
+    background-color: #595959;
 }
 
 .gallery-slider .slick-dots li {
@@ -441,10 +441,10 @@ figure.effect-julia:hover p {
 
 /* About page */
 .tm-about-container {
-    border-top: 1px solid white;
+    border-top: 1px solid black;
     padding-top: 50px;
     padding-bottom: 50px;
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid black;
 }
 
 /* Contact page */
@@ -459,12 +459,12 @@ figure.effect-julia:hover p {
 
 .form-control,
 .form-control:focus {
-    color: white;
+    color: black;
     background-color: transparent;
 }
 
 .form-control:focus {
-    border-bottom: 1px solid #99FF66;
+    border-bottom: 1px solid #595959;
     outline: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -538,7 +538,7 @@ figure.effect-julia:hover p {
         position: absolute;
         top: 63px;
         right: 0;
-        background: rgb(54 75 96);
+        background: rgb(22, 27, 32);
         border-radius: 5px;
     }
 
